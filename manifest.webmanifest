@@ -1,13 +1,13 @@
 {
-  "name": "个人作品集 · Portfolio",
-  "short_name": "作品集",
+  "name": "My Profile",
+  "short_name": "My Profile",
   "description": "视频剪辑 / 后期制作 / AI 内容创作者的个人作品集",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#0c0d0f",
+  "theme_color": "#0c0d0f",
   "lang": "zh-CN",
   "icons": [
     {
